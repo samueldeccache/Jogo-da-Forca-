@@ -1,2 +1,2 @@
 # Jogo-da-Forca-
-Esse código foi escrito na linguagem Python. As regras desse jogo são basicamente as mesmas da Forca com um sistema de pontuação. Ao final contém um Ranking com os jogadores que mais pontuaram. 
+This code was written in the Python language. The rules of this game are basically the same as that of Forca with a scoring system. At the end it contains a Ranking with the players who scored more.
